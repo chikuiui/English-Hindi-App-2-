@@ -1,4 +1,4 @@
-# English-Hindi-App
+# English-Hindi-App 2
 This app is created for children's who can't read/pronounce english words.  
 
 Using (TabLayout + (ViewPager+FragmentPagerAdapter))
